@@ -1,0 +1,3 @@
+﻿  NumberMatrix.cpp
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\NumberMatrix\NumberMatrix.cpp(25,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NumberMatrix.vcxproj -> C:\Users\092834\OneDrive - UP Education\Desktop\CS103\NumberMatrix\Debug\NumberMatrix.exe
